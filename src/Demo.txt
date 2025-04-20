@@ -3,8 +3,7 @@ A
 B
 C
 D
-F
-G
+
 
 NUMBERS 
 A
