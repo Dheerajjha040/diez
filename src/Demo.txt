@@ -5,3 +5,12 @@ C
 D
 F
 G
+
+NUMBERS 
+A
+B
+C 
+D
+E
+F
+G
